@@ -1,0 +1,9 @@
+{
+  "search_engine":["google","yandex","yahoo","torch"],
+  "selected_websites":["digikala","torob","esam","emalls"],
+  "inputlist":"data\\input.xlsx",
+  "ouputlist":"\\data\\output.xlsx",
+  "sentemail":false,
+  "similar_products":false,
+  "options": ["قیمت","موجودی","عملکرد"]
+}
