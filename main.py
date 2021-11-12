@@ -24,7 +24,6 @@ if __name__ == '__main__':
                     if len(site_lists) == 0 :
                         continue
                     else:
-                        print("Aaa")
                         reults = parsers.web_parser(site_lists=site_lists,
                                             selected_website=selected_website,
                                             options=options)
